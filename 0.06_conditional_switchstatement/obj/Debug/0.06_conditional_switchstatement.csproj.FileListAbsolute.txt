@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\bin\Debug\0.06_conditional_switchstatement.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\bin\Debug\0.06_conditional_switchstatement.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\bin\Debug\0.06_conditional_switchstatement.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\obj\Debug\0.06_conditional_switchstatement.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\obj\Debug\0.06_conditional_switchstatement.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\obj\Debug\0.06_conditional_switchstatement.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.06_conditional_switchstatement\obj\Debug\0.06_conditional_switchstatement.pdb

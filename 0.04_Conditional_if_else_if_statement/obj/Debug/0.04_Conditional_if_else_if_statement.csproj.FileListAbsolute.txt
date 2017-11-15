@@ -1,0 +1,6 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\bin\Debug\0.04_Conditional_if_else_if_statement.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\bin\Debug\0.04_Conditional_if_else_if_statement.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\bin\Debug\0.04_Conditional_if_else_if_statement.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\obj\Debug\0.04_Conditional_if_else_if_statement.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\obj\Debug\0.04_Conditional_if_else_if_statement.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.04_Conditional_if_else_if_statement\obj\Debug\0.04_Conditional_if_else_if_statement.pdb

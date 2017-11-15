@@ -1,0 +1,6 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\bin\Debug\0.05_Challenges_else_if_statements.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\bin\Debug\0.05_Challenges_else_if_statements.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\bin\Debug\0.05_Challenges_else_if_statements.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\obj\Debug\0.05_Challenges_else_if_statements.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\obj\Debug\0.05_Challenges_else_if_statements.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.05_Challenges_else_if_statements\obj\Debug\0.05_Challenges_else_if_statements.pdb

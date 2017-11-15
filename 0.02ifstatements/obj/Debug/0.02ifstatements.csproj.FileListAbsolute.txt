@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\bin\Debug\0.02ifstatements.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\bin\Debug\0.02ifstatements.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\bin\Debug\0.02ifstatements.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\obj\Debug\0.02ifstatements.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\obj\Debug\0.02ifstatements.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\obj\Debug\0.02ifstatements.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.02ifstatements\obj\Debug\0.02ifstatements.pdb

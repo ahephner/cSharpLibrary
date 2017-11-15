@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\bin\Debug\cSharpFund.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\bin\Debug\cSharpFund.exe
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\bin\Debug\cSharpFund.pdb
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\obj\Debug\cSharpFund.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\obj\Debug\cSharpFund.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\obj\Debug\cSharpFund.exe
+C:\Users\ajhep\source\repos\cSharpFund\cSharpFund\obj\Debug\cSharpFund.pdb

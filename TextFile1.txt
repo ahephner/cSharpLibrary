@@ -1,0 +1,46 @@
+
+namespace ConsoleApp
+{
+	class Progam 
+	{
+		static void Main(string[] args)
+		{
+		Console.WriteLine("Hello World")
+		}
+}
+}
+
+using = keyword
+System = namespace
+ConsoleApp = main namespace for app
+class Program = class name1. 
+static void Main(string[] args) = main starting point for app loads everything between {} more on that later
+Console = class imported from System Namespace
+
+1. In C# every line of code that does something is inside of a 
+   class. In this case since Console.WriteLine("H..."); will execute
+   it needs to be in a class and class Program does that for us. 
+
+DATA TYPES: 
+Strongly Typed
+
+bool = boolean
+
+int = integar
+
+string = string
+
+char = storing single character
+
+float = stores numbers that may or may not have decimals
+
+VARIABLES: 
+
+Need: 
+<data type> <name> = info ; 
+int test = 3; 
+
+Visability: 
+<visibility> <dt> <name> = info; 
+
+private string x = "ok"; 

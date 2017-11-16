@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\bin\Debug\0.07_loops.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\bin\Debug\0.07_loops.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\bin\Debug\0.07_loops.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\obj\Debug\0.07_loops.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\obj\Debug\0.07_loops.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\obj\Debug\0.07_loops.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.07_loops\obj\Debug\0.07_loops.pdb

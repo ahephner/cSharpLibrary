@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Challenges_else_if_sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_conditional_switchstatement", "0.06_conditional_switchstatement\0.06_conditional_switchstatement.csproj", "{93A60333-FB91-4A84-9FE5-9A462EAE3817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_loops", "0.07_loops\0.07_loops.csproj", "{B60A9931-4194-4ABD-AA20-4FDD7614C5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{93A60333-FB91-4A84-9FE5-9A462EAE3817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93A60333-FB91-4A84-9FE5-9A462EAE3817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93A60333-FB91-4A84-9FE5-9A462EAE3817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60A9931-4194-4ABD-AA20-4FDD7614C5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60A9931-4194-4ABD-AA20-4FDD7614C5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60A9931-4194-4ABD-AA20-4FDD7614C5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60A9931-4194-4ABD-AA20-4FDD7614C5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

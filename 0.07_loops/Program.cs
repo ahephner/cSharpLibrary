@@ -35,11 +35,15 @@ namespace _0._07_loops
             //foreachloop
             //need using System.Collections; for ArrayList
             ArrayList list = new ArrayList();
-            //
+            //add names to list.Add()
             list.Add("Test Person");
             list.Add("AJ Hephner");
             list.Add("BB Dog");
 
+            //this needs to have string
+            //allows us to know what type of data to come back
+            //use the class name if you have mixed data types
+            //i.e. string and int
             foreach(string name in list)
 
             Console.WriteLine(name);

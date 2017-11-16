@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\bin\Debug\0.09_functionparams.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\bin\Debug\0.09_functionparams.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\bin\Debug\0.09_functionparams.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\obj\Debug\0.09_functionparams.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\obj\Debug\0.09_functionparams.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\obj\Debug\0.09_functionparams.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.09_functionparams\obj\Debug\0.09_functionparams.csprojResolveAssemblyReference.cache

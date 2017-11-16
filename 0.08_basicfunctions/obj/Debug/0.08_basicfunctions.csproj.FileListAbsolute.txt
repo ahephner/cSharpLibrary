@@ -1,0 +1,6 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\bin\Debug\0.08_basicfunctions.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\bin\Debug\0.08_basicfunctions.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\bin\Debug\0.08_basicfunctions.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\obj\Debug\0.08_basicfunctions.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\obj\Debug\0.08_basicfunctions.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.08_basicfunctions\obj\Debug\0.08_basicfunctions.pdb

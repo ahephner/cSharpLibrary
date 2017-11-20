@@ -8,8 +8,20 @@ namespace _0._10_array
 {
     class Program
     {
+        public int AddNumber(int number1, int number2)
+        {
+            int result = number1 + number2;
+            return result; 
+        }
         static void Main(string[] args)
         {
+
+
+
+            Program prog = new Program();
+            Console.WriteLine(prog.AddNumber(1, 5));
+
+
             //declared similar to variables with [] after datatype
             //setting the array size [3]
             string[] people = new string[2];

@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\bin\Debug\0.11_Access_Mod.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\bin\Debug\0.11_Access_Mod.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\bin\Debug\0.11_Access_Mod.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\obj\Debug\0.11_Access_Mod.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\obj\Debug\0.11_Access_Mod.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\obj\Debug\0.11_Access_Mod.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.11_Access_Mod\obj\Debug\0.11_Access_Mod.pdb

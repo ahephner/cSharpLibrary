@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_array", "0.10_array\0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade", "Grade\Grade.csproj", "{1DEA7069-A653-421F-B111-2B3E6EEBB5EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Access_Mod", "0.11_Access_Mod\0.11_Access_Mod.csproj", "{55E1D1FE-0AC0-4238-A39C-A560624A258C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{1DEA7069-A653-421F-B111-2B3E6EEBB5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DEA7069-A653-421F-B111-2B3E6EEBB5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DEA7069-A653-421F-B111-2B3E6EEBB5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E1D1FE-0AC0-4238-A39C-A560624A258C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E1D1FE-0AC0-4238-A39C-A560624A258C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E1D1FE-0AC0-4238-A39C-A560624A258C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E1D1FE-0AC0-4238-A39C-A560624A258C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

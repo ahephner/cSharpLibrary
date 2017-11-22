@@ -33,6 +33,7 @@ namespace _0._11_Access_Mod
 
         public void MazdaDetails()
         {
+            //\n = new line
             Console.WriteLine($"Make: {Make}\nModel: {Model}\nYear: {Year}\nPrice: {price}");
         }
         }

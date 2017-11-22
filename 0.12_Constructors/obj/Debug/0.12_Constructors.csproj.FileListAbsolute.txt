@@ -1,0 +1,7 @@
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\bin\Debug\0.12_Constructors.exe.config
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\bin\Debug\0.12_Constructors.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\bin\Debug\0.12_Constructors.pdb
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\obj\Debug\0.12_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\obj\Debug\0.12_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\obj\Debug\0.12_Constructors.exe
+C:\Users\ajhep\source\repos\cSharpFund\0.12_Constructors\obj\Debug\0.12_Constructors.pdb
